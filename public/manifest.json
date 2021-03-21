@@ -1,6 +1,6 @@
 {
-   "name": "React Avançado - Boilerplate",
-   "short_name": "Abner Fonseca",
+   "name": "My trips",
+   "short_name": "My trips",
    "icons": [
      {
        "src": "/img/icon-192.png",
@@ -14,7 +14,7 @@
      }
    ],
    "background_color": "#06092B",
-   "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!",
+   "description": "Lugares onde ja Passei!",
    "display": "fullscreen",
    "start_url": "/",
    "theme_color": "#06092B"
